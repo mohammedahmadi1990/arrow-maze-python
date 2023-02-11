@@ -1,0 +1,3 @@
+E,S,SW
+E,NW,S
+N,W,G
